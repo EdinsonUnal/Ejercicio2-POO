@@ -1,6 +1,6 @@
 # Ejercicio2-POO
 
-## Ejercicio propuesto No 5.
+## Ejercicio propuesto No 5 - Libro Lógica de Programación de Efraín Oviedo.
 
 ### Hacer el siguiente algoritmo y una prueba de escritorio.
 
